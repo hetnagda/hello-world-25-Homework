@@ -10,6 +10,5 @@
 <br/>
 ![Imgur](https://github.com/hetnagda/hello-world-25-Homework/blob/main/week04-generative-artwork/posters/poster-3-friendship.png)
 
-<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week04-generative-artwork/posters/poster-1-kindness.png" width="500">
 
-Libraries used
+# Libraries used
