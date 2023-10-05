@@ -12,7 +12,7 @@ These posters are made only using CODE. No image processing software. Who would 
 <br/>
 
 Libraries used
-- Numpy
-- Matplotlab
-- Seaborn
+- Numpy - NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices.
+- Matplotlab - Matplotlib is a plotting library for the Python programming
+- Seaborn - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 
