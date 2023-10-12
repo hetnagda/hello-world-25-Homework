@@ -1,5 +1,4 @@
-# Posters using only code
-
+# Morse Clock
 Kindness. Courage. Friendship. These are the qualities that define us as human beings, and propel us, on occasion, to greatness. - R.J. Palacio
 
 These posters are made only using CODE. No image processing software. Who would have thought that CODE could be such a powerful tool?
