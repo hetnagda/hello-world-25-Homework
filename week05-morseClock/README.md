@@ -12,7 +12,7 @@ Eight years later, he met Charles Thomas Jackson, and they both shared an intere
 
 # My Take On It
 
-<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week05-morseClock/screenshots/morseClockWIP-3.png" width="600" height="auto">
+<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week05-morseClock/screenshots/morseClockWIP-4.png" width="600" height="auto">
 
 ---
 
