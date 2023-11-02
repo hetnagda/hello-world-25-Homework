@@ -21,9 +21,9 @@ Get ready to spin, dodge, and laugh your way to the top of the leaderboard. Are 
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/splash-screen.png" width="450">
-    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/game-screen.png" width="450">
-    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/lose-screen.png" width="450">
+    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/splash-screen.png" width="400">
+    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/game-screen.png" width="400">
+    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/lose-screen.png" width="400">
 </div>
 
 ## Libraries
