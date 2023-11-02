@@ -1,7 +1,7 @@
 function game(){
   clear();
   backgroundMusic.setVolume(0.3);
-  
+  //backgroundMusic.play();
   background('#1d232a');
 
 

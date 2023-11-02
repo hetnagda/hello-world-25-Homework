@@ -10,11 +10,12 @@ let highScore = 0;
 let heading;
 let directionChange, backgroundMusic, levelUp, loseMusic, newObstacle, scorePlus;
 let probability = 0.001;
+let paused = false;
 
 
 function setup() {
   createCanvas(400, 400);
-  backgroundMusic.loop();
+  backgroundMusic.play();
 }
 
 function draw() {
@@ -57,6 +58,10 @@ function keyPressed(){
     counter = 5;
     stage = 1;
     probability = 0.001;
+    if (paused) {
+      backgroundMusic.loop();
+      paused = false;
+    }
     loop();
   }  
 }
