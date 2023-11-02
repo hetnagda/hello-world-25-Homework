@@ -1,27 +1,42 @@
-# Morse Clock [https://editor.p5js.org/hetnagda/full/cC_xV2l9T]
+# Twirl Trouble
 
-# Story behind Morse Code
+<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/logo_TT.png" width="500">
 
-In 1825, Samuel Morse was working in Washington DC when he received a letter that read, "Your dear wife is convalescent."  The next day, while packing, he received another letter... his wife Susan had already died.
+Play the game here: [Twirl Trouble - Play Now](https://editor.p5js.org/hetnagda/full/eHD2gkjyp)
 
-He rushed home to New Haven to attend the funeral and arrived to find his wife had already been buried. Heartbroken that he had missed–well, everything–Samuel vowed to find a way to deliver messages instantly, so no one would feel the pain of being separated from loved ones in their most important moments.
+This game was developed as an assignment given to us by our professors. They challenged us to create an engaging game using only __a single button__. Embracing this constraint led to the creation of "Twirl Trouble."
 
-Eight years later, he met Charles Thomas Jackson, and they both shared an interest in transmitting information quickly over long distances through electronic impulses. Samuel envisioned a mechanical device called the telegraph, which could send impulses over any distance, and he developed a system of dots and dashes to transmit messages through electrical impulses over wires. After more than a decade of work, Morse successfully demonstrated his telegraph on January 11, 1838, changing the way the world communicated and connecting people during important moments.
+## Welcome to Twirl Trouble
 
----
+🌪️ Welcome to the world of "Twirl Trouble," where you help the crazy circle dodge those pesky rectangles while racking up points!
 
-# My Take On It
+## How to Play
 
-<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week05-morseClock/screenshots/morseClockWIP-4.png" width="600" height="auto">
+1. 🔄 Control the circle's direction with the SPACE bar.
+2. 1️⃣ Score 1 point for every clockwise rotation you complete.
+3. 🚧 Beware of the rectangles! Collide, and it's game over!
 
----
+Get ready to spin, dodge, and laugh your way to the top of the leaderboard. Are you up for the challenge?
 
-# What is Morese Code?
+## Screenshots
 
-The term Morse Code refers to either of two systems for representing letters of the alphabet, numerals, and punctuation marks by an arrangement of dots, dashes, and spaces. The codes are transmitted as electrical pulses of varied lengths or analogous mechanical or visual signals, such as flashing lights. The two systems are the original “American” Morse Code and the later International Morse Code, which became the global standard.
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/splash-screen.png">
+    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/game-screen.png">
+    <img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/lose-screen.png">
+</div>
 
-<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week05-morseClock/screenshots/morse-code-sheet.jpg" width="600" height="auto">
-<br/>
+## Libraries
 
+Special thanks to Ben Moren for providing the Collide2D library, which has simplified collision detection in the game. [Collide2D GitHub](https://github.com/bmoren/p5.collide2D)
 
+## Future Updates
+
+Stay tuned for exciting future updates, including:
+
+1. Integration with a physical button.
+2. Improved obstacle generation for even more challenging gameplay.
+3. Level-based gameplay with different obstacle colors.
+
+Feel free to enjoy the game and watch out for these exciting enhancements!
 
