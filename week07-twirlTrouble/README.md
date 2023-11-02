@@ -1,6 +1,6 @@
 # Twirl Trouble
 
-![Game Preview](https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/splash-screen.png)
+<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/splash-screen.png" width="150">
 
 Play the game here: [Twirl Trouble - Play Now](https://editor.p5js.org/hetnagda/full/eHD2gkjyp)
 
@@ -20,9 +20,9 @@ Get ready to spin, dodge, and laugh your way to the top of the leaderboard. Are 
 
 ## Screenshots
 
-![Splash Screen](https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/splash-screen.png)
-![Game Screen](https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/game-screen.png)
-![Lose Screen](https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/lose-screen.png)
+<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/splash-screen.png" width="250">
+<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/game-screen.png" width="250">
+<img src="https://github.com/hetnagda/hello-world-25-Homework/blob/main/week07-twirlTrouble/screenshots/lose-screen.png" width="250">
 
 ## Libraries
 
